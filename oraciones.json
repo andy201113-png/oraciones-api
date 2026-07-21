@@ -143,19 +143,9 @@
       "destacado": false,
       "esTesoro": false
     },
+    
     {
       "id": 14,
-      "titulo": "Cuando Dios guarda silencio",
-      "extracto": "Cuando el cielo parece de bronce y la oración se vuelve difícil, Jesús te sostiene...",
-      "urlImagen": "https://i.postimg.cc/6pgqBx1s/maxresdefault-(12).webp",
-      "urlVideo": "https://cdn.videy.co/5lKVtW4i1.mp4",
-      "textoCompleto": "<p><strong>“Jesús, aunque no te escuche, sé que estás aquí”</strong>. Esta es la oración del alma que atraviesa la noche oscura, cuando el cielo parece de bronce y las palabras no encuentran eco. Si hoy tu oración te parece vacía, si sientes que Dios guarda silencio y tu fe se tambalea, esta Hora Santa ante el Santísimo Sacramento es para ti.</p><p>El silencio de Dios es una de las pruebas más duras que un creyente puede enfrentar. No es que Dios se haya ido. No es que no te escuche. Es que, a veces, su silencio es un lenguaje más profundo que las palabras. Es como un maestro que, antes de enseñar, calla para que el alumno preste atención. Es como un padre que, en lugar de dar todo lo que el hijo pide, espera a que madure para darle lo mejor.</p>",
-      "fechaAgregado": "2026-07-14",
-      "destacado": false,
-      "esTesoro": false
-    },
-    {
-      "id": 15,
       "titulo": "Jesús, te pido por mis hijos",
       "extracto": "Pon a tus hijos en las manos de Jesús, presente en el Santísimo Sacramento...",
       "urlImagen": "https://i.postimg.cc/FzS5bwV1/maxresdefault-(13).webp",
@@ -166,7 +156,7 @@
       "esTesoro": false
     },
     {
-      "id": 16,
+      "id": 15,
       "titulo": "Jesús, Cálmame Como Calmaste el Mar",
       "extracto": "Para esos momentos donde la angustia ahoga y el pánico no te deja respirar...",
       "urlImagen": "https://i.postimg.cc/3rFQ0B09/maxresdefault-(14).jpg",
