@@ -1,0 +1,24 @@
+{
+  "lecturas": [
+    {
+      "fecha": "2026-08-25",
+      "liturgia": "Martes de la XXI semana del Tiempo ordinario",
+      "primera_lectura": {
+        "referencia": "2 Tesalonicenses 2, 1-3. 14-17",
+        "texto": "Hermanos: Por lo que toca a la venida de nuestro Señor Jesucristo y a nuestra reunión con él, les rogamos que no pierdan tan fácilmente la cabeza ni se alarmen, ni por supuestos mensajes espirituales, ni por palabras, ni por cartas que parezcan nuestras, como si el día del Señor estuviera ya inminente. Que nadie los engañe de ninguna manera. Dios los eligió desde el principio para alcanzar la salvación, mediante la acción santificadora del Espíritu y la fe en la verdad. A esta salvación los llamó a través de nuestro Evangelio, para que obtengan la gloria de nuestro Señor Jesucristo. Por eso, hermanos, manténganse firmes y conserven las tradiciones que les hemos enseñado, de palabra o por carta. Que nuestro Señor Jesucristo mismo y Dios, nuestro Padre, que nos ha amado y nos ha dado un consuelo eterno y una esperanza feliz, les infunda ánimo y los fortalezca en toda obra y palabra buena."
+      },
+      "salmo": {
+        "referencia": "Salmo 95, 10. 11-12a. 12b-13",
+        "texto": "Digan entre las naciones: «El Señor reina. Él afianzó el mundo, no vacilará; él juzgará a los pueblos con rectitud». Alégrense los cielos, goce la tierra, brame el mar y todo lo que hay en él; aplaudan los campos y todo lo que contienen; los árboles del bosque griten de alegría al llegar el Señor, porque viene a gobernar la tierra; gobernará el mundo con justicia y a los pueblos con su verdad."
+      },
+      "evangelio": {
+        "referencia": "Mateo 23, 23-26",
+        "texto": "En aquel tiempo, Jesús dijo: «¡Ay de ustedes, escribas y fariseos hipócritas, que pagan el diezmo de la menta, del anís y del comino, y descuidan lo más importante de la ley: la justicia, la misericordia y la fidelidad! Esto es lo que debían practicar, sin descuidar aquello. ¡Ay de ustedes, escribas y fariseos hipócritas, que limpian la copa y el plato por fuera, mientras por dentro están llenos de rapiña y desenfreno! Fariseo ciego, limpia primero la copa por dentro, para que también por fuera quede limpia»."
+      },
+      "reflexion": {
+        "titulo": "Lo esencial de la ley",
+        "texto": "Jesús nos recuerda hoy que no podemos descuidar lo más importante de la ley: la justicia, la misericordia y la fidelidad. Muchas veces nos preocupamos por cumplir con los rituales y las normas externas, pero descuidamos el amor hacia los demás y la honradez en nuestro interior. El Señor nos invita a una conversión profunda: que nuestra vida esté limpia por dentro, para que nuestras obras también reflejen el amor de Dios. La venida de Cristo nos llena de esperanza; mantengámonos firmes, no dejemos que las preocupaciones ni el engaño nos aparten de la fe, y vivamos como hijos de la luz, practicando la justicia y la misericordia cada día."
+      }
+    }
+  ]
+}
