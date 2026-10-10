@@ -1,0 +1,44 @@
+{
+  "santos": [
+    {
+      "fecha": "2026-10-09",
+      "nombre": "San Dionisio de París",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Saint_Denis.jpg/400px-Saint_Denis.jpg",
+      "biografia": "San Dionisio fue el primer obispo de París en el siglo III. Junto con sus compañeros San Rústico y San Eleuterio, fue martirizado por su fe durante la persecución del emperador Decio. La tradición cuenta que después de ser decapitado, caminó varios kilómetros predicando el Evangelio, sosteniendo su cabeza en las manos. Es uno de los santos más venerados de Francia y patrono de la ciudad de París. Su fiesta se celebra cada 9 de octubre.",
+      "frase": "La sangre de los mártires es semilla de nuevos cristianos.",
+      "virtud": "Fortaleza en la fe"
+    },
+    {
+      "fecha": "2026-10-10",
+      "nombre": "San Francisco de Borja",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Francisco_de_Borja.jpg/400px-Francisco_de_Borja.jpg",
+      "biografia": "San Francisco de Borja nació en Gandía, España, en 1510. Fue duque de Gandía y virrey de Cataluña antes de convertirse en jesuita. Su conversión se produjo al contemplar el cadáver descompuesto de la emperatriz Isabel de Portugal, lo que le hizo reflexionar sobre la fugacidad de la vida y pronunciar su famosa frase: 'Nunca más servir a un señor que pueda morir'. Fue el tercer Superior General de la Compañía de Jesús y promovió las misiones en América y Asia. Falleció en Roma en 1572.",
+      "frase": "Nunca más servir a un señor que pueda morir.",
+      "virtud": "Conversión radical"
+    },
+    {
+      "fecha": "2026-10-11",
+      "nombre": "San Juan XXIII",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pope_John_XXIII_-_1959.jpg/400px-Pope_John_XXIII_-_1959.jpg",
+      "biografia": "Angelo Giuseppe Roncalli nació en Bérgamo, Italia, en 1881, en una familia humilde de campesinos. Fue ordenado sacerdote en 1904 y sirvió como diplomático vaticano en Bulgaria, Turquía y Francia. En 1958 fue elegido Papa, para sorpresa de todos, pues ya tenía 76 años y se esperaba un pontificado de transición. Sin embargo, convocó el Concilio Vaticano II, uno de los eventos más importantes de la historia de la Iglesia. Su humildad, su sonrisa y su amor por los pobres le valieron el apodo de 'el Papa Bueno'. Fue canonizado por el Papa Francisco en 2014.",
+      "frase": "No consulto al médico que me dice que estoy bien, sino al que me dice la verdad.",
+      "virtud": "Humildad"
+    },
+    {
+      "fecha": "2026-10-12",
+      "nombre": "Nuestra Señora del Pilar",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nuestra_Se%C3%B1ora_del_Pilar.jpg/400px-Nuestra_Se%C3%B1ora_del_Pilar.jpg",
+      "biografia": "Según la tradición, el 2 de enero del año 40, la Virgen María se apareció al apóstol Santiago el Mayor en Zaragoza, sobre un pilar (columna), para animarlo en su misión evangelizadora en la Península Ibérica. Le pidió que construyera una iglesia en ese lugar, prometiendo que permanecería allí como signo de su protección. Es una de las advocaciones marianas más antiguas y queridas de España y Latinoamérica. Su fiesta se celebra el 12 de octubre, coincidiendo con el Día de la Hispanidad.",
+      "frase": "Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré.",
+      "virtud": "Confianza en María"
+    },
+    {
+      "fecha": "2026-10-13",
+      "nombre": "San Eduardo el Confesor",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Edward_the_Confessor.jpg/400px-Edward_the_Confessor.jpg",
+      "biografia": "Eduardo fue rey de Inglaterra entre 1042 y 1066. A pesar de su posición de poder, vivió con gran sencillez y piedad. Se caracterizó por su amor a la paz, su justicia con los pobres y su devoción a la Eucaristía. Mandó construir la Abadía de Westminster, que sigue siendo hoy el corazón espiritual de Inglaterra. Fue conocido como 'el Confesor' por su vida de fe ejemplar. Canonizado en 1161, es patrono de los reyes y de las familias en dificultad.",
+      "frase": "La paz no se conquista con la espada, sino con el corazón.",
+      "virtud": "Piedad"
+    }
+  ]
+}

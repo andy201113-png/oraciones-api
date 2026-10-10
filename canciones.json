@@ -1,0 +1,24 @@
+{
+  "canciones": [
+    {
+      "id": 1,
+      "titulo": "Canto de Comunión: Eres el Pan de Vida",
+      "urlVideo": "https://cdn.videy.co/5KIfCOBO1.mp4"
+    },
+    {
+      "id": 2,
+      "titulo": "Adoración: Quédate Señor",
+      "urlVideo": "https://cdn.videy.co/h0jmKkQl1.mp4"
+    },
+    {
+      "id": 3,
+      "titulo": "Himno Eucarístico: Pange Lingua",
+      "urlVideo": "https://cdn.videy.co/gaNs35ZK1.mp4"
+    },
+    {
+      "id": 4,
+      "titulo": "Alabanza: Santo, Santo, Santo",
+      "urlVideo": "https://cdn.videy.co/LGsUlpWo1.mp4"
+    }
+  ]
+}
