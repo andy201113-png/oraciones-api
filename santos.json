@@ -1,20 +1,34 @@
 {
   "santos": [
     {
+      "fecha": "2026-10-04",
+      "nombre": "San Francisco de Asís",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Francisco_de_As%C3%ADs_en_la_iglesia_de_San_Francisco_de_As%C3%ADs_%28Oporto%29.jpg/400px-Francisco_de_As%C3%ADs_en_la_iglesia_de_San_Francisco_de_As%C3%ADs_%28Oporto%29.jpg",
+      "biografia": "Giovanni di Pietro di Bernardone nació en Asís, Italia, en 1181, en una familia adinerada de comerciantes de telas. De joven fue un hombre alegre, mundano y soñaba con ser caballero. Pero tras una serie de experiencias místicas, especialmente el encuentro con un leproso, su vida cambió radicalmente. Renunció a todas sus riquezas, incluso públicamente frente a su padre, y se desposó con 'Hermana Pobreza'. Fundó la Orden de los Frailes Menores (franciscanos) que se dedicó a predicar el Evangelio con humildad, pobreza y amor a toda la creación. Compuso el Cántico de las Criaturas y recibió los estigmas en el monte Alvernia. Falleció en 1226 y fue canonizado en 1228.",
+      "frase": "Señor, hazme un instrumento de tu paz. Donde haya odio, ponga yo amor.",
+      "virtud": "Pobreza y humildad",
+      "patronoDe": "Ecología, animales, Italia",
+      "oracion": "San Francisco de Asís, ayúdanos a amar la pobreza, la humildad y toda la creación de Dios. Intercede por nosotros para que seamos instrumentos de paz. Amén."
+    },
+    {
+      "fecha": "2026-10-07",
+      "nombre": "Nuestra Señora del Rosario",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Virgen_del_Rosario.jpg/400px-Virgen_del_Rosario.jpg",
+      "biografia": "La fiesta de Nuestra Señora del Rosario fue instituida por el Papa San Pío V en 1571 para conmemorar la victoria de la flota cristiana en la batalla de Lepanto, atribuida a la intercesión de la Virgen María por medio del rezo del Rosario. Según la tradición, la Virgen entregó el Rosario a Santo Domingo de Guzmán en el siglo XIII como arma espiritual contra las herejías. A lo largo de los siglos, el Rosario ha sido la oración predilecta de los santos y el arma más poderosa de la Iglesia contra el mal. Consiste en la meditación de los misterios de la vida de Cristo, contemplados a través de los ojos de su Madre.",
+      "frase": "El Rosario es el arma más poderosa contra el infierno.",
+      "virtud": "Confianza en María",
+      "patronoDe": "Misiones, batallas espirituales",
+      "oracion": "Nuestra Señora del Rosario, enséñanos a rezar el Rosario con fervor y a contemplar los misterios de tu Hijo. Ruega por nosotros. Amén."
+    },
+    {
       "fecha": "2026-10-09",
       "nombre": "San Dionisio de París",
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Saint_Denis.jpg/400px-Saint_Denis.jpg",
-      "biografia": "San Dionisio fue el primer obispo de París en el siglo III. Junto con sus compañeros San Rústico y San Eleuterio, fue martirizado por su fe durante la persecución del emperador Decio. La tradición cuenta que después de ser decapitado, caminó varios kilómetros predicando el Evangelio, sosteniendo su cabeza en las manos. Es uno de los santos más venerados de Francia y patrono de la ciudad de París. Su fiesta se celebra cada 9 de octubre.",
+      "biografia": "San Dionisio fue el primer obispo de París en el siglo III. Junto con sus compañeros San Rústico y San Eleuterio, fue martirizado por su fe durante la persecución del emperador Decio. La tradición cuenta que después de ser decapitado, caminó varios kilómetros predicando el Evangelio, sosteniendo su cabeza en las manos, hasta el lugar donde después se construiría la Basílica de Saint-Denis. Es uno de los santos más venerados de Francia y patrono de la ciudad de París. Su fiesta se celebra cada 9 de octubre.",
       "frase": "La sangre de los mártires es semilla de nuevos cristianos.",
-      "virtud": "Fortaleza en la fe"
-    },
-    {
-      "fecha": "2026-10-10",
-      "nombre": "San Francisco de Borja",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Francisco_de_Borja.jpg/400px-Francisco_de_Borja.jpg",
-      "biografia": "San Francisco de Borja nació en Gandía, España, en 1510. Fue duque de Gandía y virrey de Cataluña antes de convertirse en jesuita. Su conversión se produjo al contemplar el cadáver descompuesto de la emperatriz Isabel de Portugal, lo que le hizo reflexionar sobre la fugacidad de la vida y pronunciar su famosa frase: 'Nunca más servir a un señor que pueda morir'. Fue el tercer Superior General de la Compañía de Jesús y promovió las misiones en América y Asia. Falleció en Roma en 1572.",
-      "frase": "Nunca más servir a un señor que pueda morir.",
-      "virtud": "Conversión radical"
+      "virtud": "Fortaleza en la fe",
+      "patronoDe": "París, Francia",
+      "oracion": "San Dionisio, ayúdanos a ser valientes en la fe y a no temer a los que pueden matar el cuerpo pero no el alma. Ruega por nosotros. Amén."
     },
     {
       "fecha": "2026-10-11",
@@ -22,7 +36,9 @@
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pope_John_XXIII_-_1959.jpg/400px-Pope_John_XXIII_-_1959.jpg",
       "biografia": "Angelo Giuseppe Roncalli nació en Bérgamo, Italia, en 1881, en una familia humilde de campesinos. Fue ordenado sacerdote en 1904 y sirvió como diplomático vaticano en Bulgaria, Turquía y Francia. En 1958 fue elegido Papa, para sorpresa de todos, pues ya tenía 76 años y se esperaba un pontificado de transición. Sin embargo, convocó el Concilio Vaticano II, uno de los eventos más importantes de la historia de la Iglesia. Su humildad, su sonrisa y su amor por los pobres le valieron el apodo de 'el Papa Bueno'. Fue canonizado por el Papa Francisco en 2014.",
       "frase": "No consulto al médico que me dice que estoy bien, sino al que me dice la verdad.",
-      "virtud": "Humildad"
+      "virtud": "Humildad",
+      "patronoDe": "Los papas, la paz",
+      "oracion": "San Juan XXIII, enséñanos a ser humildes y a confiar en la Providencia. Ruega por nosotros. Amén."
     },
     {
       "fecha": "2026-10-12",
@@ -30,15 +46,169 @@
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nuestra_Se%C3%B1ora_del_Pilar.jpg/400px-Nuestra_Se%C3%B1ora_del_Pilar.jpg",
       "biografia": "Según la tradición, el 2 de enero del año 40, la Virgen María se apareció al apóstol Santiago el Mayor en Zaragoza, sobre un pilar (columna), para animarlo en su misión evangelizadora en la Península Ibérica. Le pidió que construyera una iglesia en ese lugar, prometiendo que permanecería allí como signo de su protección. Es una de las advocaciones marianas más antiguas y queridas de España y Latinoamérica. Su fiesta se celebra el 12 de octubre, coincidiendo con el Día de la Hispanidad.",
       "frase": "Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré.",
-      "virtud": "Confianza en María"
+      "virtud": "Confianza en María",
+      "patronoDe": "Hispanidad, Zaragoza",
+      "oracion": "Nuestra Señora del Pilar, ayúdanos a permanecer firmes en la fe como la columna sobre la que te apareciste a Santiago. Ruega por nosotros. Amén."
     },
     {
-      "fecha": "2026-10-13",
-      "nombre": "San Eduardo el Confesor",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Edward_the_Confessor.jpg/400px-Edward_the_Confessor.jpg",
-      "biografia": "Eduardo fue rey de Inglaterra entre 1042 y 1066. A pesar de su posición de poder, vivió con gran sencillez y piedad. Se caracterizó por su amor a la paz, su justicia con los pobres y su devoción a la Eucaristía. Mandó construir la Abadía de Westminster, que sigue siendo hoy el corazón espiritual de Inglaterra. Fue conocido como 'el Confesor' por su vida de fe ejemplar. Canonizado en 1161, es patrono de los reyes y de las familias en dificultad.",
-      "frase": "La paz no se conquista con la espada, sino con el corazón.",
-      "virtud": "Piedad"
+      "fecha": "2026-10-15",
+      "nombre": "Santa Teresa de Jesús",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Teresa_of_Avila_d%27apr%C3%A8s_Fran%C3%A7ois_G%C3%A9rard.jpg/400px-Teresa_of_Avila_d%27apr%C3%A8s_Fran%C3%A7ois_G%C3%A9rard.jpg",
+      "biografia": "Teresa de Cepeda y Ahumada nació en Ávila, España, en 1515. A los 20 años entró al Carmelo, pero pasó años en una vida espiritual mediocre hasta que, a los 39, tuvo una conversión profunda. A partir de entonces, se convirtió en una de las más grandes místicas y reformadoras de la Iglesia. Reformó la Orden del Carmen junto con San Juan de la Cruz, fundando conventos por toda España. Escribió obras maestras de la espiritualidad como 'El Castillo Interior' y 'Camino de Perfección'. Fue la primera mujer declarada Doctora de la Iglesia, en 1970.",
+      "frase": "Nada te turbe, nada te espante; todo se pasa, Dios no se muda. La paciencia todo lo alcanza. Quien a Dios tiene, nada le falta. Solo Dios basta.",
+      "virtud": "Oración y reforma",
+      "patronoDe": "España, personas con problemas de salud",
+      "oracion": "Santa Teresa de Jesús, enséñanos a orar con el corazón y a confiar solo en Dios. Ayúdanos a no turbar nuestro espíritu con las cosas del mundo. Ruega por nosotros. Amén."
+    },
+    {
+      "fecha": "2026-10-18",
+      "nombre": "San Lucas Evangelista",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/St_Luke.jpg/400px-St_Luke.jpg",
+      "biografia": "San Lucas fue un médico sirio de Antioquía convertido al cristianismo. Fue discípulo y colaborador de San Pablo, a quien acompañó en varios de sus viajes misioneros. Es autor del tercer Evangelio y de los Hechos de los Apóstoles, los libros más 'literarios' del Nuevo Testamento. Su Evangelio destaca por su sensibilidad hacia los pobres, las mujeres, los pecadores y los enfermos, y por presentar a María con gran ternura (Magnificat, Anunciación, Visitación). Según la tradición, fue pintor y retrató a la Virgen María. Murió mártir en Grecia.",
+      "frase": "Hágase en mí según tu palabra.",
+      "virtud": "Servicio y ternura",
+      "patronoDe": "Médicos, artistas, pintores",
+      "oracion": "San Lucas, ayúdanos a conocer y amar a Jesús como tú lo hiciste, especialmente en su misericordia hacia los pobres y enfermos. Ruega por nosotros. Amén."
+    },
+    {
+      "fecha": "2026-10-22",
+      "nombre": "San Juan Pablo II",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pope_John_Paul_II_medal.jpg/400px-Pope_John_Paul_II_medal.jpg",
+      "biografia": "Karol Wojtyła nació en Wadowice, Polonia, en 1920. Perdió a su madre a los 9 años y a su padre a los 21. Durante la ocupación nazi, trabajó en una cantera y estudió en un seminario clandestino. Fue ordenado sacerdote en 1946 y obispo auxiliar de Cracovia en 1958. En 1978 fue elegido Papa, convirtiéndose en el primer papa no italiano en 455 años. Su pontificado duró 27 años y transformó la Iglesia y el mundo: viajó a 129 países, escribió 14 encíclicas, creó las Jornadas Mundiales de la Juventud y fue un firme defensor de la familia, la vida y la paz. Falleció en 2005 y fue canonizado en 2014.",
+      "frase": "¡No tengáis miedo! ¡Abrid las puertas a Cristo!",
+      "virtud": "Valentía y amor a los jóvenes",
+      "patronoDe": "Jóvenes, familias",
+      "oracion": "San Juan Pablo II, enséñanos a no tener miedo y a abrir las puertas de nuestro corazón a Cristo. Intercede por nuestras familias y por los jóvenes del mundo. Amén."
+    },
+    {
+      "fecha": "2026-10-28",
+      "nombre": "San Simón y San Judas Tadeo",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/San_Judas_Tadeo.jpg/400px-San_Judas_Tadeo.jpg",
+      "biografia": "San Simón el Zelote y San Judas Tadeo fueron dos de los doce apóstoles de Jesús. Judas Tadeo es el autor de la breve carta de Judas en el Nuevo Testamento. Según la tradición, ambos predicaron el Evangelio juntos en Persia y Mesopotamia, donde sufrieron el martirio. San Judas Tadeo es uno de los santos más invocados por los fieles, especialmente en causas difíciles y desesperadas, por su poderosa intercesión. Es el patrono de las causas imposibles.",
+      "frase": "Judas Tadeo, siervo fiel de Jesús, ruega por nosotros en nuestras necesidades.",
+      "virtud": "Fidelidad apostólica",
+      "patronoDe": "Causas imposibles, causas desesperadas",
+      "oracion": "San Judas Tadeo, amigo fiel de Jesús, tú que ayudas a quienes te invocan en las causas más difíciles, intercede por nosotros ante el trono de Dios. Amén."
+    },
+    {
+      "fecha": "2026-11-01",
+      "nombre": "Todos los Santos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Allsaintstide.jpg/400px-Allsaintstide.jpg",
+      "biografia": "La solemnidad de Todos los Santos celebra a todos los santos del cielo, canonizados y no canonizados. Es una de las fiestas más antiguas de la Iglesia, instituida para honrar a todos aquellos que alcanzaron la gloria eterna, incluidos los mártires anónimos y los santos 'desconocidos' que vivieron su fe con heroísmo silencioso. La Iglesia nos invita a contemplar el cielo como nuestra meta final y a invocar la intercesión de todos los santos para que nos ayuden a llegar allí. El día siguiente, 2 de noviembre, se celebra la Conmemoración de los Fieles Difuntos.",
+      "frase": "Bienaventurados los que tienen el corazón limpio, porque ellos verán a Dios.",
+      "virtud": "Santidad universal",
+      "patronoDe": "Toda la Iglesia",
+      "oracion": "Todos los santos del cielo, ayúdennos a caminar hacia la patria celestial con la mirada puesta en Dios. Intercedan por nosotros y por nuestros difuntos. Amén."
+    },
+    {
+      "fecha": "2026-11-02",
+      "nombre": "Fieles Difuntos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cementerio_de_Comillas.jpg/400px-Cementerio_de_Comillas.jpg",
+      "biografia": "La Conmemoración de los Fieles Difuntos es el día en que la Iglesia ora especialmente por las almas del purgatorio. La doctrina católica enseña que quienes mueren en gracia de Dios pero sin haber satisfecho completamente sus pecados, pasan por un estado de purificación antes de entrar al cielo. La oración, la Misa, las indulgencias y las obras de misericordia ofrecidas por los difuntos pueden aliviar y acelerar su purificación. Ese día, los católicos visitan los cementerios y oran por sus seres queridos fallecidos.",
+      "frase": "Requiem aeternam dona eis, Domine. (El descanso eterno dales, Señor.)",
+      "virtud": "Esperanza en la resurrección",
+      "patronoDe": "Las almas del purgatorio",
+      "oracion": "Señor, ten piedad de las almas de nuestros difuntos. Que la Virgen María y todos los santos intercedan por ellos y los lleven pronto a contemplar tu rostro. Amén."
+    },
+    {
+      "fecha": "2026-11-03",
+      "nombre": "San Martín de Porres",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Martin_de_Porres.jpg/400px-Martin_de_Porres.jpg",
+      "biografia": "San Martín de Porres nació en Lima, Perú, en 1579, hijo de un noble español y una mujer negra liberta. Sufrió el rechazo de la sociedad por su origen, pero ingresó como hermano donado en el convento dominico de Lima. Sirvió con humildad en los oficios más humildes: barbero, enfermero, limosnero. Su caridad no conocía fronteras: cuidaba a los enfermos, a los esclavos, a los indígenas, a los animales. Se le atribuyen milagros, curaciones y bilocaciones. Fue el primer santo negro de América. Falleció en 1639 y fue canonizado en 1962.",
+      "frase": "Yo te curo, Dios te sana.",
+      "virtud": "Caridad universal",
+      "patronoDe": "Justicia social, enfermeros, Perú",
+      "oracion": "San Martín de Porres, ayúdanos a amar a todos sin distinción de raza, cultura o condición, y a servir a los más pobres con la misma caridad con la que tú serviste. Amén."
+    },
+    {
+      "fecha": "2026-11-04",
+      "nombre": "San Carlos Borromeo",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Carlo_Borromeo.jpg/400px-Carlo_Borromeo.jpg",
+      "biografia": "San Carlos Borromeo nació en 1538 en el seno de una familia noble italiana. Fue nombrado cardenal a los 22 años por su tío, el Papa Pío IV, y arzobispo de Milán a los 26. Fue una figura clave del Concilio de Trento y el gran impulsor de la reforma católica. Se distinguió por su austeridad personal, su celo pastoral y su dedicación a los pobres, a quienes visitaba personalmente. Durante la peste que azotó Milán en 1576, se quedó en la ciudad para atender a los enfermos cuando otros huían. Falleció en 1584.",
+      "frase": "Las almas se ganan con las rodillas, no con la soberbia.",
+      "virtud": "Celo pastoral",
+      "patronoDe": "Obispos, catequistas",
+      "oracion": "San Carlos Borromeo, ayúdanos a servir a la Iglesia con humildad y a los pobres con generosidad. Intercede por nuestros pastores. Amén."
+    },
+    {
+      "fecha": "2026-11-11",
+      "nombre": "San Martín de Tours",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/San_Martino_Papa.jpg/400px-San_Martino_Papa.jpg",
+      "biografia": "San Martín de Tours nació en Panonia (actual Hungría) en el año 316. Fue soldado romano antes de convertirse al cristianismo. El episodio más famoso de su vida ocurrió en Amiens, cuando cortó su capa por la mitad para dársela a un mendigo que temblaba de frío. Esa noche, Cristo se le apareció vestido con la mitad de su capa, diciéndole: 'Martín me ha vestido a mí'. Dejó el ejército, se hizo discípulo de San Hilario de Poitiers y fundó el primer monasterio de la Galia. Fue obispo de Tours y evangelizó las zonas rurales de Francia.",
+      "frase": "Señor, si aún soy necesario para tu pueblo, no me niego al trabajo.",
+      "virtud": "Caridad con los pobres",
+      "patronoDe": "Francia, soldados, pobres",
+      "oracion": "San Martín de Tours, enséñanos a ver a Cristo en cada persona necesitada y a compartir con generosidad lo que tenemos. Ruega por nosotros. Amén."
+    },
+    {
+      "fecha": "2026-11-22",
+      "nombre": "Santa Cecilia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Santa_Cecilia.jpg/400px-Santa_Cecilia.jpg",
+      "biografia": "Santa Cecilia fue una noble romana del siglo II o III que se consagró a Dios desde muy joven. Fue obligada a casarse con un joven llamado Valeriano, a quien confesó su voto de virginidad y lo convirtió al cristianismo junto con su hermano Tiburcio. Los tres fueron martirizados por su fe durante las persecuciones romanas. Según la tradición, mientras moría, Cecilia cantaba a Dios en su corazón, por lo que se convirtió en la patrona de los músicos y cantantes. Es una de las mártires más veneradas de la Iglesia primitiva.",
+      "frase": "Cantaré al Señor mientras tenga vida.",
+      "virtud": "Pureza y valentía",
+      "patronoDe": "Músicos, cantantes, coros",
+      "oracion": "Santa Cecilia, enséñanos a cantar a Dios con el corazón incluso en medio de las pruebas, y a mantener nuestra fe firme hasta el final. Amén."
+    },
+    {
+      "fecha": "2026-11-30",
+      "nombre": "San Andrés Apóstol",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Andreas_apostel.jpg/400px-Andreas_apostel.jpg",
+      "biografia": "San Andrés fue uno de los primeros discípulos de Jesús y hermano de San Pedro. Antes de seguir a Cristo, era discípulo de Juan el Bautista. Fue él quien presentó a su hermano Pedro al Señor. Según los Evangelios, era pescador en el lago de Galilea y dejó sus redes para seguir a Jesús. Después de Pentecostés, predicó el Evangelio en Asia Menor, Escitia y Grecia. Murió crucificado en Patras, en una cruz en forma de X, a la que se le pidió ser atado en lugar de clavado para prolongar su martirio. Es el patrono de Escocia, Rusia, Grecia y Rumania.",
+      "frase": "Salve, oh cruz, consagrada por el cuerpo de Cristo.",
+      "virtud": "Evangelización",
+      "patronoDe": "Escocia, Grecia, pescadores",
+      "oracion": "San Andrés, enséñanos a llevar a otros a Cristo como tú llevaste a tu hermano Pedro, y a abrazar nuestra cruz con amor. Ruega por nosotros. Amén."
+    },
+    {
+      "fecha": "2026-12-08",
+      "nombre": "La Inmaculada Concepción",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Inmaculada_Concepci%C3%B3n_de_Murillo.jpg/400px-Inmaculada_Concepci%C3%B3n_de_Murillo.jpg",
+      "biografia": "La Inmaculada Concepción es un dogma de fe católico proclamado por el Papa Pío IX en 1854. Declara que la Virgen María fue preservada de todo pecado original desde el primer instante de su concepción, por los méritos de Cristo y en previsión de su maternidad divina. Esto no significa que fue concebida sin intervención humana, sino que fue libre de la mancha del pecado original. La Virgen misma confirmó este dogma al aparecerse en Lourdes a Santa Bernadette en 1858, diciendo: 'Yo soy la Inmaculada Concepción'.",
+      "frase": "Toda hermosa eres, María, y no hay en ti mancha original.",
+      "virtud": "Pureza y gracia",
+      "patronoDe": "Todo el género humano",
+      "oracion": "Inmaculada Concepción, Madre de Dios y Madre nuestra, alcánzanos de tu Hijo la gracia de vivir en estado de gracia y de morir en su amor. Amén."
+    },
+    {
+      "fecha": "2026-12-12",
+      "nombre": "Nuestra Señora de Guadalupe",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Virgen_de_Guadalupe.jpg/400px-Virgen_de_Guadalupe.jpg",
+      "biografia": "El 9 de diciembre de 1531, la Virgen María se apareció al indígena San Juan Diego en el cerro del Tepeyac, en México. Se identificó como 'la perfecta siempre Virgen Santa María, Madre del verdadero Dios'. Le pidió que se construyera un templo en ese lugar. Como señal, el 12 de diciembre hizo que se recogieran rosas de Castilla en el frío cerro y, cuando Juan Diego abrió su tilma (manto) ante el obispo, cayó el ramillete de rosas y quedó estampada la imagen de la Virgen. Ese manto se conserva hasta hoy en la Basílica de Guadalupe en Ciudad de México.",
+      "frase": "¿No estoy yo aquí que soy tu Madre? ¿No estás bajo mi sombra y mi resguardo?",
+      "virtud": "Maternidad y ternura",
+      "patronoDe": "México, Latinoamérica",
+      "oracion": "Nuestra Señora de Guadalupe, Madre de los mexicanos y de toda América, cúbrenos con tu manto, guíanos a tu Hijo Jesús y protégenos en todos los momentos de nuestra vida. Amén."
+    },
+    {
+      "fecha": "2026-12-25",
+      "nombre": "La Natividad del Señor",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nativity_by_Gerard_van_Honthorst.jpg/400px-Nativity_by_Gerard_van_Honthorst.jpg",
+      "biografia": "La Navidad celebra el nacimiento de Jesucristo en Belén, el acontecimiento central de la historia de la humanidad. Dios, siendo eterno y todopoderoso, se hizo hombre en el seno de la Virgen María para salvarnos. Nació en un pesebre humilde, fue envuelto en pañales y acostado en un pesebre, porque no había lugar para ellos en la posada. Los ángeles anunciaron la noticia a los pastores, y una estrella guió a los Magos desde Oriente. En la Navidad, la luz vence a las tinieblas, el amor vence al odio, y la esperanza renace en el corazón del mundo.",
+      "frase": "Gloria a Dios en lo alto, y en la tierra paz a los hombres de buena voluntad.",
+      "virtud": "Encarnación y humildad de Dios",
+      "patronoDe": "Toda la humanidad",
+      "oracion": "Señor Jesús, nacido en Belén por amor a nosotros, ayúdanos a acogerte en nuestros corazones como la Virgen y San José te acogieron. Que tu nacimiento renueve en nosotros la fe, la esperanza y el amor. Amén."
+    },
+    {
+      "fecha": "2026-12-27",
+      "nombre": "San Juan Evangelista",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Juan_evangelista_-_El_Greco.jpg/400px-Juan_evangelista_-_El_Greco.jpg",
+      "biografia": "San Juan Evangelista fue el discípulo amado de Jesús, el más joven de los doce apóstoles. Junto con su hermano Santiago, dejó su padre y sus redes para seguir al Señor. Estuvo presente en los momentos más íntimos: la Transfiguración, la Última Cena, el Huerto de los Olivos y la Crucifixión, donde Jesús le confió a su Madre. Después de la resurrección, fue el primero en creer. Escribió el cuarto Evangelio, tres cartas y el Apocalipsis. Es el único apóstol que murió de vejez, en Éfeso, hacia el año 100.",
+      "frase": "Dios es amor, y quien permanece en el amor permanece en Dios y Dios en él.",
+      "virtud": "Amor y contemplación",
+      "patronoDe": "Teólogos, escritores, amistad",
+      "oracion": "San Juan Evangelista, enséñanos a amar a Jesús como tú lo amaste y a permanecer fieles a su Madre. Ayúdanos a contemplar el misterio del Verbo encarnado. Amén."
+    },
+    {
+      "fecha": "2026-12-28",
+      "nombre": "Santos Inocentes",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Massacre_of_the_Innocents_Rubens.jpg/400px-Massacre_of_the_Innocents_Rubens.jpg",
+      "biografia": "La fiesta de los Santos Inocentes conmemora a los niños menores de dos años que el rey Herodes mandó matar en Belén y sus alrededores, al enterarse del nacimiento del Mesías. Los consideraba una amenaza a su trono y quiso eliminarlos. Estos niños, sin saberlo, dieron su vida por Cristo. Son venerados como mártires, aunque no tuvieron uso de razón, porque murieron por causa de Jesús. Es un día para orar por los niños no nacidos y por todos los niños que sufren en el mundo.",
+      "frase": "Dejad que los niños vengan a mí, porque de ellos es el Reino de los Cielos.",
+      "virtud": "Inocencia y martirio",
+      "patronoDe": "Niños, víctimas inocentes",
+      "oracion": "Santos Inocentes, que disteis vuestra vida por Cristo sin saberlo, interceded por todos los niños del mundo, especialmente por los no nacidos y por los que sufren. Amén."
     }
   ]
 }
