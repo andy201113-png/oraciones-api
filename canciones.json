@@ -1,4 +1,5 @@
 {
+  "version": "2026-10-15-1",
   "canciones": [
     {
       "id": 1,
@@ -48,14 +49,14 @@
     {
       "id": 10,
       "titulo": "Santo ,santo eres señor",
-      "urlVideo": "https://cdn.videy.co/YPs6Ig3I1.mp4.mp4"
+      "urlVideo": "https://cdn.videy.co/YPs6Ig3I1.mp4"
     },
     {
       "id": 11,
       "titulo": "Santo eres señor",
       "urlVideo": "https://cdn.videy.co/RoHT6Kak1.mp4"
     },
-     {
+    {
       "id": 12,
       "titulo": "Jesus tu eres mi medicina",
       "urlVideo": "https://cdn.videy.co/QvNyffMb1.mp4"
@@ -170,7 +171,7 @@
       "titulo": "Sigue intentando",
       "urlVideo": "https://cdn.videy.co/Qd5AJVFn1.mp4"
     },
-     {
+    {
       "id": 35,
       "titulo": "Jesus salvame",
       "urlVideo": "https://cdn.videy.co/nm4Qoz6X1.mp4"
@@ -195,8 +196,5 @@
       "titulo": "Jesus no me dejes solo",
       "urlVideo": "https://cdn.videy.co/4cOYHwb41.mp4"
     }
-    
-   
   ]
 }
-
