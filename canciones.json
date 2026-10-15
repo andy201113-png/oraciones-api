@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-15-1",
+  "version": "2026-10-15-2",
   "canciones": [
     {
       "id": 1,
@@ -45,11 +45,6 @@
       "id": 9,
       "titulo": "Jesus escuchame",
       "urlVideo": "https://cdn.videy.co/S1UWubgn1.mp4"
-    },
-    {
-      "id": 10,
-      "titulo": "Santo ,santo eres señor",
-      "urlVideo": "https://cdn.videy.co/YPs6Ig3I1.mp4"
     },
     {
       "id": 11,
