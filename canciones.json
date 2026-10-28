@@ -2,6 +2,11 @@
   "version": "2026-10-15-2",
   "canciones": [
     {
+      "id":40,
+      "titulo": "Jesus no puedo solo ",
+      "urlVideo": "https://cdn.videy.co/5DVUCVCZ1.mp4"
+    },
+    {
       "id": 1,
       "titulo": "perdoname jesus",
       "urlVideo": "https://cdn.videy.co/6ub8CHmA1.mp4"
