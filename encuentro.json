@@ -3,19 +3,19 @@
   "actualizado": "2026-10-30",
   "oraciones": [
     {
-      "fecha": "2026-10-29",
-      "titulo": "Descansar en Ti",
-      "oracion": "Señor, ayer fue un día de muchos retos, pero gracias por darme la fuerza para superarlos.\n\nHoy descanso en la certeza de que Tú tienes el control de todas las cosas. Amén."
+      "id": 1,
+      "titulo": "Un nuevo comienzo",
+      "oracion": "Jesús, hoy empiezo este camino contigo. Te pido que guíes mis pasos y me des la sabiduría para tomar las decisiones correctas. Quiero que seas el centro de mi vida. Amén."
     },
     {
-      "fecha": "2026-10-30",
-      "titulo": "Caminar sin miedo",
-      "oracion": "Jesús, hoy me presento ante Ti con el corazón abierto.\n\nA veces el futuro me asusta, pero recuerdo que Tú vas conmigo a donde quiera que vaya. Dame valentía para dar el siguiente paso y paz para confiar en tu plan."
+      "id": 2,
+      "titulo": "Confiar en tu silencio",
+      "oracion": "Señor, a veces no entiendo lo que permites en mi vida. Cuando el silencio se hace largo, ayúdame a recordar que Tú siempre estás obrando para mi bien. Aumenta mi fe. Amén."
     },
     {
-      "fecha": "2026-10-31",
-      "titulo": "Preparar el corazón",
-      "oracion": "Padre celestial, mañana termina un mes más. Te pido que prepares mi corazón para recibir lo que tienes para mí en el nuevo mes que comienza.\n\nRenueva mis fuerzas y mi fe. Amén."
+      "id": 3,
+      "titulo": "El poder de la gratitud",
+      "oracion": "Padre celestial, hoy quiero detenerme a agradecerte. Gracias por la vida, por mi familia, por el aire que respiro y por las pequeñas bendiciones que a veces paso por alto. Cambia mi mirada para ver siempre lo bueno. Amén."
     }
   ]
 }
