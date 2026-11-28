@@ -1,6 +1,50 @@
 {
   "lecturas": [
     {
+  "fecha": "2026-11-29",
+  "liturgia": "Primer Domingo de Adviento",
+  "primera_lectura": {
+    "referencia": "Isaías 63, 16b-17. 19b; 64, 2b-7",
+    "texto": "Tú, Señor, eres nuestro padre y nuestro redentor;\nése es tu nombre desde siempre.\n¿Por qué, Señor, nos has permitido alejarnos de tus mandamientos\ny dejas endurecer nuestro corazón\nhasta el punto de no temerte?\nVuélvete, por amor a tus siervos,\na las tribus que son tu heredad.\nOjalá rasgaras los cielos y bajaras,\nestremeciendo las montañas con tu presencia.\n\nDescendiste y los montes se estremecieron con tu presencia.\nJamás se oyó decir, ni nadie vio jamás\nque otro Dios, fuera de ti,\nhiciera tales cosas en favor de los que esperan en él.\nTú sales al encuentro\ndel que practica alegremente la justicia\ny no pierde de vista tus mandamientos.\n\nEstabas airado porque nosotros pecábamos\ny te éramos siempre rebeldes.\nTodos éramos impuros\ny nuestra justicia era como trapo asqueroso;\ntodos estábamos marchitos, como las hojas,\ny nuestras culpas nos arrebataban, como el viento.\n\nNadie invocaba tu nombre,\nnadie se levantaba para refugiarse en ti,\nporque nos ocultabas tu rostro\ny nos dejabas a merced de nuestras culpas.\nSin embargo, Señor, tú eres nuestro padre;\nnosotros somos el barro y tú el alfarero;\ntodos somos hechura de tus manos."
+  },
+  "salmo": {
+    "referencia": "Salmo 79, 2ac y 3b. 15-16. 18-19",
+    "texto": "R. (4) Señor, muéstranos tu favor y sálvanos.\n\nEscúchanos, pastor de Israel,\ntú, que estás rodeado de querubines,\nmanifiéstate,\ndespierta tu poder y ven a salvarnos.\nR. Señor, muéstranos tu favor y sálvanos.\n\nSeñor, Dios de los ejércitos, vuelve tus ojos:\nmira tu viña y visítala,\nprotege la cepa plantada por tu mano,\nel renuevo que tú mismo cultivaste.\nR. Señor, muéstranos tu favor y sálvanos.\n\nQue tu diestra defienda al que elegiste,\nal hombre que has fortalecido.\nYa no nos alejaremos de ti;\nconsérvanos la vida y alabaremos tu poder.\nR. Señor, muéstranos tu favor y sálvanos."
+  },
+  "segunda_lectura": {
+    "referencia": "1 Corintios 1, 3-9",
+    "texto": "Hermanos: Les deseamos la gracia y la paz de parte de Dios, nuestro Padre, y de Cristo Jesús, el Señor.\n\nContinuamente agradezco a mi Dios los dones divinos que les ha concedido a ustedes por medio de Cristo Jesús, ya que por él los ha enriquecido con abundancia en todo lo que se refiere a la palabra y al conocimiento; porque el testimonio que damos de Cristo ha sido confirmado en ustedes a tal grado, que no carecen de ningún don, ustedes, los que esperan la manifestación de nuestro Señor Jesucristo. Él los hará permanecer irreprochables hasta el fin, hasta el día de su advenimiento. Dios es quien los ha llamado a la unión con su Hijo Jesucristo, y Dios es fiel."
+  },
+  "evangelio": {
+    "referencia": "Marcos 13, 33-37",
+    "texto": "En aquel tiempo, Jesús dijo a sus discípulos: “Velen y estén preparados, porque no saben cuándo llegará el momento. Así como un hombre que se va de viaje, deja su casa y encomienda a cada quien lo que debe hacer y encarga al portero que esté velando, así también velen ustedes, pues no saben a qué hora va a regresar el dueño de la casa: si al anochecer, a la medianoche, al canto del gallo o a la madrugada. No vaya a suceder que llegue de repente y los halle durmiendo. Lo que les digo a ustedes, lo digo para todos: permanezcan alerta”."
+  },
+  "reflexion": {
+    "titulo": "Velen y estén preparados: la llamada de Adviento a una esperanza vigilante",
+    "texto": "El primer domingo de Adviento nos introduce en un tiempo de espera y preparación. La liturgia nos invita a levantar la mirada y a reconocer que nuestra vida está orientada hacia un encuentro definitivo con el Señor. Jesús, en el Evangelio, nos exhorta con insistencia: “Velen y estén preparados, porque no saben cuándo llegará el momento”. No se trata de un temor estéril, sino de una vigilancia amorosa, propia de quien espera a alguien a quien ama.\n\nAdviento no es solo memoria del nacimiento de Cristo en Belén, sino también anticipación de su venida gloriosa al final de los tiempos. Y entre esos dos acontecimientos se despliega nuestra historia personal y comunitaria. La pregunta que hoy se nos plantea es: ¿cómo estoy viviendo este tiempo de espera? ¿Estoy dormido, distraído por las preocupaciones del mundo, o mantengo encendida la lámpara de la fe, alimentada por la oración y los sacramentos?\n\nEl Señor nos ha confiado una misión, como el dueño de la casa a sus servidores. Cada uno tiene su tarea. No podemos permanecer pasivos. La vigilancia cristiana no es quietud, sino actividad amorosa: servir a los demás, cultivar la justicia, vivir la caridad, anunciar el Evangelio con alegría. Es la esperanza activa de quien sabe que el Señor viene, y viene para darnos la vida en plenitud. Que este Adviento nos encuentre despiertos, con el corazón disponible y las manos dispuestas, para recibir al que viene y para ser signos de su presencia en el mundo."
+  }
+},
+    {
+  "fecha": "2026-11-28",
+  "liturgia": "Sábado de la XXXIV semana del Tiempo Ordinario",
+  "primera_lectura": {
+    "referencia": "Apocalipsis 22, 1-7",
+    "texto": "El ángel del Señor me mostró a mí, Juan, el río del agua que da la vida, reluciente como el cristal, que brotaba del trono de Dios y del Cordero. En el centro de la plaza de la ciudad y en cada lado del río, crecía un árbol de la vida, que daba doce cosechas al año, una cada mes, y sus hojas sirven para dar la salud a las naciones. Ahí no habrá ya ninguna maldición.\n\nEn la ciudad estará el trono de Dios\ny el del Cordero,\ny sus servidores le darán culto,\nlo verán cara a cara,\ny llevarán su nombre en la frente.\nAhí no habrá ya noche\nni habrá necesidad de lámparas o de sol,\nporque el Señor Dios los iluminará con su luz\ny reinarán por los siglos de los siglos.\n\nLuego el ángel me dijo: “Estas palabras son verdaderas y dignas de crédito. El Señor Dios, que inspiró a los profetas, ha enviado su ángel para comunicar a sus servidores lo que tiene que suceder en breve. Ya estoy a punto de llegar. Dichoso quien le hace caso al mensaje profético contenido en este libro”."
+  },
+  "salmo": {
+    "referencia": "Salmo 94, 1-2. 3-5. 6-7",
+    "texto": "R/. Demos gracias al Señor.\n\nVengan, lancemos vivas al Señor,\naclamemos al Dios que nos salva.\nAcerquémonos a él llenos de júbilo\ny démosle gracias. R/.\n\nR/. Demos gracias al Señor.\n\nPorque el Señor es un Dios grande,\nes un rey más grande que todos los dioses:\nen sus manos están los abismos de la tierra\ny son suyas las cumbres de los montañas;\nel mar es suyo, pues él lo hizo,\ny también la tierra, pues la formó con sus manos. R/.\n\nR/. Demos gracias al Señor.\n\nVengan, y puestos de rodillas,\nadoremos y bendigamos al Señor, que nos hizo,\npues él es nuestro Dios y nosotros, su pueblo,\nél nuestro pastor y nosotros, sus ovejas. R/.\n\nR/. Demos gracias al Señor."
+  },
+  "evangelio": {
+    "referencia": "Lucas 21, 34-36",
+    "texto": "En aquel tiempo, Jesús dijo a sus discípulos: “Estén alerta, para que los vicios, la embriaguez y las preocupaciones de esta vida no entorpezcan su mente y aquel día los sorprenda desprevenidos; porque caerá de repente como una trampa sobre todos los habitantes de la tierra.\n\nVelen, pues, y hagan oración continuamente, para que puedan escapar de todo lo que ha de suceder y comparecer seguros ante el Hijo del hombre”."
+  },
+  "reflexion": {
+    "titulo": "La historia llega a su plenitud",
+    "texto": "En la Primera Lectura se nos dice que sólo en Dios encontramos la plenitud de la vida, una plenitud que no nos la da ninguno de los bienes ni éxitos de este mundo.\n\nEl ángel le muestra a San Juan un río de agua viva que brota del trono de Dios y del Cordero. Dios nos está diciendo que la vida, que representa el agua, viene de Dios.\n\nEl árbol de la vida que aparece a un lado y otro del río nos recuerda lo que perdimos por el pecado del hombre en el Génesis. Pero con la venida del Hijo todo es curado y restaurado, y ya no habrá maldición alguna, veremos el rostro de Dios y viviremos unidos a Él para siempre.\n\nEl Señor nos envía un ángel para advertirnos de lo que ha de suceder.\n\nDios nos muestra la meta de nuestra vida: La vida plena y eterna junto a él.\n\nEstad atentos ante la llegada del Hijo del Hombre\n\nEn el evangelio de hoy Jesús nos da la clave para prepararnos para nuestro encuentro con Dios; estar siempre atentos y vigilantes, estar unidos con Él a través de la oración, y estar siempre dispuestos para comparecer ante Él.\n\nDios nos ofrece la plenitud de la vida eterna y lo que tenemos que hacer es estar preparados viviendo nuestro día a día en la presencia del Señor. No podemos programar el encuentro definitivo con Dios según nuestros gustos e intereses, por eso tenemos que estar siempre dispuestos.\n\nEste Evangelio nos tiene que hacer reflexionar: ¿En nuestra vida diaria nos vamos acercando a Dios, o por el contrario estamos embotados y no sabemos verlo ni escucharlo?"
+  }
+},
+    {
   "fecha": "2026-11-27",
   "liturgia": "Viernes de la XXXIV semana del Tiempo Ordinario",
   "primera_lectura": {
